@@ -4,6 +4,7 @@ body {
 
 th {
   vertical-align:top;
+  background-color: rgb(146, 203, 223);
 }
 
 td {
@@ -17,4 +18,8 @@ th {
 
 ul {
    margin:0;
+}
+
+td:nth-child(3) img{
+  width:200px;
 }
